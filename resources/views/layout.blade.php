@@ -42,7 +42,7 @@
   </div>
 </nav>
 
-<div>
+<div class="container">
     @yield('content')
 </div>
 <!-- <footer>Copy right reserved by anass</footer> -->
